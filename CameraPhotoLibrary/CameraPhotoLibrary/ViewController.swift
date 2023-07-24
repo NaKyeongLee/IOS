@@ -25,6 +25,7 @@ class ViewController: UIViewController, UINavigationControllerDelegate, UIImageP
 
     @IBAction func btnCaptureImageFromCamera(_ sender: UIButton) {
         // 카메라 사용 가능 여부
+        print(UIImagePickerController.availableMediaTypes(for: .camera))
         if (UIImagePickerController.isSourceTypeAvailable(.camera)) {
             flagImageSave = true // 이미지 저장 허용
             
