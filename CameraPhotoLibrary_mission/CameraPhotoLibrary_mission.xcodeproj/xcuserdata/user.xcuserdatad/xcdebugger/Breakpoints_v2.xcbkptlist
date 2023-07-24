@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DF3B8E39-BDA7-4F12-8933-AC8453ADEB76"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD0B7564-D6E4-4A14-B22B-714329891D1F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CameraPhotoLibrary_mission/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FD0B7564-D6E4-4A14-B22B-714329891D1F - 9716b5082150946f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CameraPhotoLibrary_mission.ViewController.imgView1.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "CameraPhotoLibrary_mission"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/CameraPhotoLibrary_mission/CameraPhotoLibrary_mission/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "FD0B7564-D6E4-4A14-B22B-714329891D1F - d901dc6f1a127863"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CameraPhotoLibrary_mission.ViewController.imgView1.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "CameraPhotoLibrary_mission"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/CameraPhotoLibrary_mission/CameraPhotoLibrary_mission/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "FD0B7564-D6E4-4A14-B22B-714329891D1F - 105d45b5802c3190"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CameraPhotoLibrary_mission.ViewController.imgView1.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "CameraPhotoLibrary_mission"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/CameraPhotoLibrary_mission/CameraPhotoLibrary_mission/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "FD0B7564-D6E4-4A14-B22B-714329891D1F - c15567962f645422"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CameraPhotoLibrary_mission.ViewController.imgView1.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CameraPhotoLibrary_mission"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/CameraPhotoLibrary_mission/CameraPhotoLibrary_mission/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "FD0B7564-D6E4-4A14-B22B-714329891D1F - 2e9dca3096d21479"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CameraPhotoLibrary_mission.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CameraPhotoLibrary_mission.ViewController"
+                  moduleName = "CameraPhotoLibrary_mission"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/CameraPhotoLibrary_mission/CameraPhotoLibrary_mission/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "FD0B7564-D6E4-4A14-B22B-714329891D1F - 5cb5f1f75f0be8a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CameraPhotoLibrary_mission.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CameraPhotoLibrary_mission.ViewController&gt;"
+                  moduleName = "CameraPhotoLibrary_mission"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/CameraPhotoLibrary_mission/CameraPhotoLibrary_mission/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
